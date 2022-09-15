@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Werdeles Soares, desenvolvedor!
 
+Developer and IT Boy.
+
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
