@@ -1,4 +1,4 @@
-## Oiii eu sou a Werdeles Soares, sou desenvolvedor!
+## Olá! Eu sou a Werdeles Soares, desenvolvedor!
 
 * 🔭 I'm interested in Frontend
 * 🌱 I'm studying Fullstack
