@@ -2,6 +2,7 @@
 Eu sou Werdeles Soares, desenvolvedor!
 
 Developer and IT Boy.
+<script src="https://tryhackme.com/badge/1892676"></script>
 
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
