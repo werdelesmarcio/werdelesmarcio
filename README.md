@@ -6,7 +6,7 @@ Estou me formando em Análise e Desenvolvimento de Sistemas. Estou sempre buscan
 
 Tenho experiência profissional em empresas de jogos, computadores, equipamentos tecnológicos e telecomunicação. Já desenvolvi projetos gráficos em CAD, 3D e vídeo, sistemas diversos, documentação de sistemas, manutenção de programas de computador e instalação de sistemas operacionais, aplicativos e periféricos. Meu objetivo é criar e melhorar sistemas e programas que atendam às necessidades dos clientes e usuários. Além disso, possuo conhecimentos nas Áreas de Segurança da Informação e de Segurança Ofensiva.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe"> 
 
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
