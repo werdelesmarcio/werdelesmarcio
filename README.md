@@ -1,7 +1,10 @@
 ## Olá!
-Eu sou Werdeles Soares, desenvolvedor!
 
-Developer and IT Boy.
+Me chamo **Werdeles Soares**, sou um técnico em **Tecnologia da Informação** e desenvolvimento de softwares nas linguagens, como javascript, html, css, c#, python, mysql e sqlserver. Meu trabalho consiste em desenvolver programas de computador, aplicativos, sites e jogos eletrônicos para diferentes plataformas e dispositivos. Possuo conhecimentos de softwares e hardwares de computador e de uma variedade de aplicativos da internet, redes e sistemas operacionais. Também sou capaz de instalar, configurar e manter sistemas e redes de computadores, garantindo sua segurança e funcionalidade. Além disso, ofereço treinamento e orientação a usuários sobre como operar novos softwares e equipamentos de computador.
+
+Estou me formando em Análise e Desenvolvimento de Sistemas. Estou sempre buscando me atualizar sobre as novas tecnologias, tendências e possibilidades de linguagem e engenharia de software. Sou inovador, persistente, curioso e tenho raciocínio lógico e habilidades matemáticas. Gosto de resolver problemas e desafios na minha área de atuação.
+
+Tenho experiência profissional em empresas de jogos, computadores, equipamentos tecnológicos e telecomunicação. Já desenvolvi projetos gráficos em CAD, 3D e vídeo, sistemas diversos, documentação de sistemas, manutenção de programas de computador e instalação de sistemas operacionais, aplicativos e periféricos. Meu objetivo é criar e melhorar sistemas e programas que atendam às necessidades dos clientes e usuários. Além disso, possuo conhecimentos nas Áreas de Segurança da Informação e de Segurança Ofensiva.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe">
 
@@ -37,8 +40,8 @@ Developer and IT Boy.
    
 </div>
  
-<div> 
-<br>
+<div>
+  <br>
   <br>
   <br>
 <h2> Redes Sociais </h2>
