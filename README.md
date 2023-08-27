@@ -2,11 +2,17 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe" width=200> 
 
-Sou um técnico em **Tecnologia da Informação** e desenvolvimento de softwares nas linguagens, como javascript, html, css, c#, python, mysql e sqlserver. Meu trabalho consiste em desenvolver programas de computador, aplicativos, sites e jogos eletrônicos para diferentes plataformas e dispositivos. Possuo conhecimentos de softwares e hardwares de computador e de uma variedade de aplicativos da internet, redes e sistemas operacionais. Também sou capaz de instalar, configurar e manter sistemas e redes de computadores, garantindo sua segurança e funcionalidade. Além disso, ofereço treinamento e orientação a usuários sobre como operar novos softwares e equipamentos de computador.
+Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares**.
 
-Estou me formando em Análise e Desenvolvimento de Sistemas. Estou sempre buscando me atualizar sobre as novas tecnologias, tendências e possibilidades de linguagem e engenharia de software. Sou inovador, persistente, curioso e tenho raciocínio lógico e habilidades matemáticas. Gosto de resolver problemas e desafios na minha área de atuação.
+Minha proficiência abrange as linguagens de programação Java, C#, Python, SQL, JavaScript, além das linguagens de marcação HTML e CSS. Através do Java, sou capaz de desenvolver aplicações sólidas e escaláveis que atendem a demandas complexas. Com C#, tenho a capacidade de criar aplicativos para ambiente Windows. A versatilidade do Python me permite enfrentar desafios variados, desde análises de dados até automação de tarefas. A manipulação de dados eficaz é alcançada por meio do SQL, assegurando que as aplicações estejam sempre fundamentadas em informações confiáveis.
 
-Tenho experiência profissional em empresas de jogos, computadores, equipamentos tecnológicos e telecomunicação. Já desenvolvi projetos gráficos em CAD, 3D e vídeo, sistemas diversos, documentação de sistemas, manutenção de programas de computador e instalação de sistemas operacionais, aplicativos e periféricos. Meu objetivo é criar e melhorar sistemas e programas que atendam às necessidades dos clientes e usuários. Além disso, possuo conhecimentos nas Áreas de Segurança da Informação e de Segurança Ofensiva.
+Minhas habilidades em HTML e CSS me possibilitam projetar interfaces atraentes e responsivas, garantindo experiências de usuário agradáveis e intuitivas. Reconheço a importância do JavaScript no desenvolvimento moderno, utilizando-o para criar interatividade e dinamismo nas minhas soluções.
+
+Meu trabalho consiste em desenvolver programas de computador, aplicativos, sites e jogos eletrônicos para diferentes plataformas e dispositivos.
+
+No entanto, meu enfoque não se limita apenas às linguagens e tecnologias. Compreendo a importância dos princípios da engenharia de software, e adoto metodologias ágeis para garantir entregas pontuais e alinhadas às demandas em constante mutação.
+
+Minha abordagem é centrada na inovação, buscando constantemente novas tecnologias, frameworks e ferramentas para manter minhas habilidades atualizadas e minhas soluções na vanguarda do setor.
 
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
@@ -15,28 +21,25 @@ Tenho experiência profissional em empresas de jogos, computadores, equipamentos
 </div>
 
 <div style="display: inline_block"><br>
-<h2>Linguagens que utilizo</h2>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Shellscript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="GCC" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">  
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
+<h2>Linguagens de Programação</h2>
+  <img align="center" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Shellscript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C++" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
+  <img align="center" alt="Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   <br>
   <br>
   <br>
   <h2>Tecnologias que utilizo</h2>
-  <img align="center" alt="Jetbrains" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">  
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
-  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
-  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">   
-  <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">  
+  <img align="center" alt="Intellig" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">  
+  <img align="center" alt="Android Studio" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
+  <img align="center" alt="VSCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="Visual Studio" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Firebase" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">    
    
 </div>
  
