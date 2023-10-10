@@ -5,7 +5,6 @@
 Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares**.
 
 Linguagens de programação Java, C#, Python, SQL, JavaScript.
-
 Linguagens de marcação HTML e CSS. 
 
 <div align="center">
@@ -47,7 +46,5 @@ Linguagens de marcação HTML e CSS.
   <a href = "mailto:werdelesmarcio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/werdeles-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/werdelesmarcio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
- 
-![Snake animation](https://github.com/werdelesmarcio/werdelesmarcio/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
