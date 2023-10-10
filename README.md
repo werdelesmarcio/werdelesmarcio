@@ -4,15 +4,8 @@
 
 Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares**.
 
-Minha proficiência abrange as linguagens de programação Java, C#, Python, SQL, JavaScript, além das linguagens de marcação HTML e CSS. Através do Java, sou capaz de desenvolver aplicações sólidas e escaláveis que atendem a demandas complexas. Com C#, tenho a capacidade de criar aplicativos para ambiente Windows. A versatilidade do Python me permite enfrentar desafios variados, desde análises de dados até automação de tarefas. A manipulação de dados eficaz é alcançada por meio do SQL, assegurando que as aplicações estejam sempre fundamentadas em informações confiáveis.
-
-Minhas habilidades em HTML e CSS me possibilitam projetar interfaces atraentes e responsivas, garantindo experiências de usuário agradáveis e intuitivas. Reconheço a importância do JavaScript no desenvolvimento moderno, utilizando-o para criar interatividade e dinamismo nas minhas soluções.
-
-Meu trabalho consiste em desenvolver programas de computador, aplicativos, sites e jogos eletrônicos para diferentes plataformas e dispositivos.
-
-No entanto, meu enfoque não se limita apenas às linguagens e tecnologias. Compreendo a importância dos princípios da engenharia de software, e adoto metodologias ágeis para garantir entregas pontuais e alinhadas às demandas em constante mutação.
-
-Minha abordagem é centrada na inovação, buscando constantemente novas tecnologias, frameworks e ferramentas para manter minhas habilidades atualizadas e minhas soluções na vanguarda do setor.
+Linguagens de programação Java, C#, Python, SQL, JavaScript, 
+Linguagens de marcação HTML e CSS. 
 
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
