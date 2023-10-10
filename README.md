@@ -4,8 +4,8 @@
 
 Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares**.
 
-Linguagens de programação Java, C#, Python, SQL, JavaScript.
-Linguagens de marcação HTML e CSS. 
+* Linguagens de programação Java, C#, Python, SQL, JavaScript.
+* Linguagens de marcação HTML e CSS. 
 
 <div align="center">
   <a href="https://github.com/werdelesmarcio">
