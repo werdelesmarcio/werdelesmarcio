@@ -1,9 +1,6 @@
-
-
 <h1 align="center"> Meu nome é Werdeles Soares </h1>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe" width=200> 
-
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="werdeles-soares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/werdeles-soares?trk=profile-badge">Werdeles de C. Soares</a></div>
               
@@ -24,14 +21,9 @@ Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares*
 <div>
   <br>
   <br>
-  <br>
 <h2> Redes Sociais </h2>
-
   <a href="https://instagram.com/werdelessoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
   <a href = "mailto:werdelesmarcio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/werdeles-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/werdelesmarcio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
-
 </div>
