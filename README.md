@@ -9,7 +9,7 @@ Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares*
 * Framework: React, Spring.
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
 
-![Werdeles Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight)
+![Werdeles Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight) 
 
 <div>
   <h2> Redes Sociais </h2>
