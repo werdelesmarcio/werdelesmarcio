@@ -9,15 +9,8 @@ Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares*
 * Framework: React, Spring.
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=werdelesmarcio&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-  </a>
-</div>
- 
+![Werdeles Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight)
+
 <div>
   <h2> Redes Sociais </h2>
   <a href="https://instagram.com/werdelessoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
