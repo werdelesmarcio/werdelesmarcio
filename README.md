@@ -12,8 +12,8 @@ Sou da área de **Tecnologia da Informação**, **Segurança Ofensiva** e **Dese
 
 <div>
   <a href="https://github.com/werdelesmarcio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werdelesmarcio&layout-compact&langs_count=16&theme=tokyonight">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werdelesmarcio&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=PyTCPScan3&theme=tokyonight)](https://github.com/werdelesmarcio/PyTCPScan3) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=gerador_senhas&theme=tokyonight)](https://github.com/werdelesmarcio/gerador_senhas)
