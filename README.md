@@ -10,7 +10,13 @@ Sou da área de **Tecnologia da Informação**, **Segurança Ofensiva** e **Dese
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
 * Segurança da Informação: Pentester, Analista de Vulnerabilidades, Red Team.
 
-![Werdeles Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight) 
+<div>
+  <a href="https://github.com/werdelesmarcio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werdelesmarcio&layout-compact&langs_count=16&theme=tokyonight">
+</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=PyTCPScan3&theme=tokyonight)](https://github.com/werdelesmarcio/PyTCPScan3) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=gerador_senhas&theme=tokyonight)](https://github.com/werdelesmarcio/gerador_senhas)
 
 <div>
   <h2> Redes Sociais </h2>
