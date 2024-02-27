@@ -4,7 +4,7 @@
 
 Sou da área de **Tecnologia da Informação**, **Segurança Ofensiva** e **Desenvolvimento de Softwares**.
 
-* Linguagens de programação: Java, C#, Python, JavaScript, TypeScript, Shell.
+* Linguagens de programação: Java, C#, Python, JavaScript, TypeScript, ShellScript.
 * Linguagens de marcação: HTML e CSS.
 * Framework: React, Spring.
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
