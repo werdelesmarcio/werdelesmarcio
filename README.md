@@ -1,13 +1,14 @@
-<h1 align="center"> Meu nome é Werdeles Soares </h1>
+<h1 align="center">Werdeles Soares</h1>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gh05tb0y.png" alt="TryHackMe" width=200> 
 
-Sou da área de **Tecnologia da Informação** e **Desenvolvimento de Softwares**.
+Sou da área de **Tecnologia da Informação**, **Segurança Ofensiva** e **Desenvolvimento de Softwares**.
 
 * Linguagens de programação: Java, C#, Python, JavaScript, TypeScript, Shell.
 * Linguagens de marcação: HTML e CSS.
 * Framework: React, Spring.
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
+* Segurança da Informação: Pentester, Analista de Vulnerabilidades, Red Team.
 
 ![Werdeles Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight) 
 
