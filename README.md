@@ -13,6 +13,7 @@ Sou da área de **Tecnologia da Informação**, **Segurança Ofensiva** e **Dese
 <div>
   <a href="https://github.com/werdelesmarcio">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werdelesmarcio&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
