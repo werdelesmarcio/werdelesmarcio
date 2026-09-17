@@ -20,7 +20,8 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat-square&logo=linux&color=6aa6f8)
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tecnologia da Informação | 💻 Segurança Ofensiva | 🛸 Desenvolvimento de Softwares <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3>🙎 Tecnologia da Informação | 💻 Segurança Ofensiva | 🛸 Desenvolvimento de Softwares </h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
 * Linguagens de programação: Java, C#, Python, JavaScript, TypeScript, ShellScript.
@@ -28,16 +29,6 @@
 * Framework: React, Spring.
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
 * Segurança da Informação: Pentester, Analista de Vulnerabilidades, Red Team.
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=werdelesmarcio&theme=nord&column=7&)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="justify">
-  <a href="https://github.com/werdelesmarcio">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=werdelesmarcio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werdelesmarcio&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 
 ## 🗂️ Highlight Projects
 <div align="justify">
