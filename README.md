@@ -30,16 +30,6 @@
 * Banco de Dados: MySql, SQLServer, PostgreSQL.
 * Segurança da Informação: Pentester, Analista de Vulnerabilidades, Red Team.
 
-## 🗂️ Highlight Projects
-<div align="justify">
-<a href="https://github.com/werdelesmarcio/iPyScan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=iPyScan&theme=tokyonight" />
-</a>
-<a href="https://github.com/werdelesmarcio/upload.ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=werdelesmarcio&repo=upload.ai&theme=tokyonight" />
-</a>
-</div>
-
 <div align="center">
   <h2> Redes Sociais </h2>
   <a href="https://instagram.com/werdelessoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
